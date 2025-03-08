@@ -6,10 +6,10 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #a7e1f6;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #e100ff;
     --filament-saturation: 0;
     --filament-lightness: 40;
     --fitting-lightness: 30;
@@ -40,7 +40,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #f1b2eb;
     font-weight: 600;
 }
 
@@ -161,7 +161,7 @@ p {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #b4ecea;
     border: none;
     font-weight: bold;
 }
