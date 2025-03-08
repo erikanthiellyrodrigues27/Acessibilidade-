@@ -6,7 +6,7 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #a7e1f6;
+    --laranja-claro: #e42899;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #e100ff;
@@ -26,7 +26,7 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background: hsl(215, 100%, calc(var(--bg-lightness) * 100%));
-    background-color: #cab8b8;
+    background-color: #dd4f69;
     margin: 0;
     padding: 0;
 }
@@ -40,7 +40,7 @@ section {
 
 
 .nav-link {
-    color: #f1b2eb;
+    color: #e173b9;
     font-weight: 600;
 }
 
@@ -142,7 +142,7 @@ p {
 
 
 #galeria {
-    background-color: #cab8b8;
+    background-color: #fe5598;
 }
 
 
@@ -153,21 +153,21 @@ p {
 }
 
 .formulario {
-    background-color: #c6b3b3;
+    background-color: #f86fad;
     padding: 2rem;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(229, 46, 180, 0.642);
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #b4ecea;
+    background-color: #e33cb6;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #c90e6b;
 }
 .menu-acessibilidade{
     position: fixed;
