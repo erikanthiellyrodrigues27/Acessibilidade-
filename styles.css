@@ -6,10 +6,10 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #e42899;
+    --laranja-claro: #e4289970;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #e100ff;
+    --alto-contraste-link: #e100ff36;
     --filament-saturation: 0;
     --filament-lightness: 40;
     --fitting-lightness: 30;
@@ -26,7 +26,7 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background: hsl(215, 100%, calc(var(--bg-lightness) * 100%));
-    background-color: #dd4f69;
+    background-color: #4fb0dd7e;
     margin: 0;
     padding: 0;
 }
