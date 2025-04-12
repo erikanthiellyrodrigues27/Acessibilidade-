@@ -26,7 +26,7 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background: hsl(215, 100%, calc(var(--bg-lightness) * 100%));
-    background-color: #4fb0dd7e;
+    background-color: #4fb0dd38;
     margin: 0;
     padding: 0;
 }
