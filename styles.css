@@ -161,13 +161,13 @@ p {
 }
 
 .formulario button {
-    background-color: #e33cb6;
+    background-color: #e33cb65b;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #c90e6b;
+    background-color: #c90e6c67;
 }
 .menu-acessibilidade{
     position: fixed;
